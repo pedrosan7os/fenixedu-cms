@@ -19,8 +19,8 @@
 package org.fenixedu.cms.domain;
 
 import org.fenixedu.bennu.core.groups.Group;
-import org.fenixedu.bennu.signals.DomainObjectEvent;
-import org.fenixedu.bennu.signals.Signal;
+import org.fenixedu.bennu.core.signals.DomainObjectEvent;
+import org.fenixedu.bennu.core.signals.Signal;
 
 public class Role extends Role_Base {
 

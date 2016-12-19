@@ -19,8 +19,8 @@
 package org.fenixedu.cms.ui;
 
 import org.fenixedu.bennu.core.security.Authenticate;
-import org.fenixedu.bennu.signals.DomainObjectEvent;
-import org.fenixedu.bennu.signals.Signal;
+import org.fenixedu.bennu.core.signals.DomainObjectEvent;
+import org.fenixedu.bennu.core.signals.Signal;
 import org.fenixedu.bennu.spring.portal.BennuSpringController;
 import org.fenixedu.cms.domain.Category;
 import org.fenixedu.cms.domain.PermissionsArray.Permission;

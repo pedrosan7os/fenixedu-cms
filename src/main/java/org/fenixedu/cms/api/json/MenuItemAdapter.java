@@ -26,8 +26,8 @@ import org.fenixedu.bennu.core.api.json.DateTimeViewer;
 import org.fenixedu.bennu.core.api.json.LocalizedStringViewer;
 import org.fenixedu.bennu.core.json.JsonAdapter;
 import org.fenixedu.bennu.core.json.JsonBuilder;
-import org.fenixedu.bennu.signals.DomainObjectEvent;
-import org.fenixedu.bennu.signals.Signal;
+import org.fenixedu.bennu.core.signals.DomainObjectEvent;
+import org.fenixedu.bennu.core.signals.Signal;
 import org.fenixedu.cms.domain.MenuItem;
 import org.fenixedu.commons.i18n.LocalizedString;
 
